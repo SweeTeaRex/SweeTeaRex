@@ -9,8 +9,7 @@ I am currently working on CS50x<br>I am currently learning C, Python, SQL, HTML,
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SweeTeaRex&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SweeTeaRex&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SweeTeaRex&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SweeTeaRex&icon=10&color=2)](https://visitcount.itsvg.in)
