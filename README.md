@@ -15,3 +15,5 @@ I am currently working on CS50x<br>I am currently learning C, Python, SQL, HTML,
 [![](https://visitcount.itsvg.in/api?id=SweeTeaRex&icon=10&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[Uploading google067ce415cd9014cf.html…]()google-site-verification: google067ce415cd9014cf.html
