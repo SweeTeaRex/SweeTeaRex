@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on CS50x<br>I am currently learning C, Python, SQL, HTML, CSS, JavaScript, Flask<br>
+Finished CS50x<br>I am currently learning C, Python, SQL, HTML, CSS, JavaScript, Flask<br> Applying to Software Enginnering programs curently 
 
 
 # 💻 Tech Stack:
